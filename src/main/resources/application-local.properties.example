@@ -1,0 +1,3 @@
+# Copie este arquivo para application-local.properties e insira sua chave OMDB.
+# O arquivo application-local.properties nao e versionado no Git.
+omdb.api.key=SUA_CHAVE_OMDB_AQUI
